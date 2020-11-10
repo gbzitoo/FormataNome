@@ -14,9 +14,6 @@ namespace FormataNome
             string[] n = nome.Split(' ');
 
             string sigla = "";
-
-            CultureInfo cultureInfo = Thread.CurrentThread.CurrentCulture;
-            TextInfo textInfo = cultureInfo.TextInfo;
             
 
             for (int i = 0; i < n.Length; i++)
