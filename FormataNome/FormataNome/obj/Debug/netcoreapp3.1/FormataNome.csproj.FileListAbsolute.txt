@@ -1,0 +1,13 @@
+F:\FormataNome\FormataNome\FormataNome\bin\Debug\netcoreapp3.1\FormataNome.exe
+F:\FormataNome\FormataNome\FormataNome\bin\Debug\netcoreapp3.1\FormataNome.deps.json
+F:\FormataNome\FormataNome\FormataNome\bin\Debug\netcoreapp3.1\FormataNome.runtimeconfig.json
+F:\FormataNome\FormataNome\FormataNome\bin\Debug\netcoreapp3.1\FormataNome.runtimeconfig.dev.json
+F:\FormataNome\FormataNome\FormataNome\bin\Debug\netcoreapp3.1\FormataNome.dll
+F:\FormataNome\FormataNome\FormataNome\bin\Debug\netcoreapp3.1\FormataNome.pdb
+F:\FormataNome\FormataNome\FormataNome\obj\Debug\netcoreapp3.1\FormataNome.csprojAssemblyReference.cache
+F:\FormataNome\FormataNome\FormataNome\obj\Debug\netcoreapp3.1\FormataNome.AssemblyInfoInputs.cache
+F:\FormataNome\FormataNome\FormataNome\obj\Debug\netcoreapp3.1\FormataNome.AssemblyInfo.cs
+F:\FormataNome\FormataNome\FormataNome\obj\Debug\netcoreapp3.1\FormataNome.csproj.CoreCompileInputs.cache
+F:\FormataNome\FormataNome\FormataNome\obj\Debug\netcoreapp3.1\FormataNome.dll
+F:\FormataNome\FormataNome\FormataNome\obj\Debug\netcoreapp3.1\FormataNome.pdb
+F:\FormataNome\FormataNome\FormataNome\obj\Debug\netcoreapp3.1\FormataNome.genruntimeconfig.cache
