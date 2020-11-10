@@ -31,7 +31,6 @@ namespace FormataNome
 
                    
                 }
-                Console.WriteLine(nomes[0]);
                 Console.WriteLine(textInfo.ToTitleCase("Nome Formatado: "+textInfo.ToLower(recebeNome)));
 
 
